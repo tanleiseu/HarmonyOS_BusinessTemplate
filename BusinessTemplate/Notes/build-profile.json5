@@ -1,0 +1,52 @@
+{
+  "app": {
+    "signingConfigs": [
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "datasource",
+      "srcPath": "./common/datasource",
+    },
+    {
+      "name": "utils",
+      "srcPath": "./common/utils",
+    },
+    {
+      "name": "phone",
+      "srcPath": "./product/phone",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "secretlock",
+      "srcPath": "./components/secretlock",
+    },
+    {
+      "name": "richeditor",
+      "srcPath": "./components/richeditor",
+    }
+  ]
+}

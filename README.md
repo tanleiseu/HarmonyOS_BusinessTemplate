@@ -17,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 求职招聘应用模板 | 商务笔记应用模板 | 商务办公（考勤）应用模板 |
 |:---:|:---:|:---:|
-|![输入图片说明](BusinessTemplate/EnterpriseRecruitment/pictures/%E9%A6%96%E9%A1%B5-%E4%BC%81%E4%B8%9A%E7%94%9F%E6%B4%BB.jpg)|![输入图片说明](BusinessTemplate/Notes/screenshots/homepage.jpg)| ![输入图片说明](BusinessTemplate/OfficeAttendance/screenshots/schedule.jpg) |
+|![输入图片说明](%E6%B1%82%E8%81%8C%E6%8B%9B%E8%81%98%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png)|![输入图片说明](%E7%AC%94%E8%AE%B0%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png)|![输入图片说明](%E5%95%86%E5%8A%A1%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png) |
